@@ -1,5 +1,6 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
+        //Try to slove by soting and implement two pointers
         int idx1=-1;
         int idx2=-1;
         for(int i=0;i<nums.length;i++)
