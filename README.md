@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0368-largest-divisible-subset) |
+| [0643-maximum-average-subarray-i](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
