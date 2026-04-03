@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
+| [0307-range-sum-query-mutable](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0368-largest-divisible-subset) |
 | [0643-maximum-average-subarray-i](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0307-range-sum-query-mutable](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0307-range-sum-query-mutable) |
 ## Queue
 |  |
 | ------- |
@@ -127,4 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
