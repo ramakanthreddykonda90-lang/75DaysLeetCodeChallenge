@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0368-largest-divisible-subset) |
 | [0643-maximum-average-subarray-i](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 ## Greedy
 |  |
 | ------- |
