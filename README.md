@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
 <!---LeetCode Topics End-->
