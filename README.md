@@ -144,4 +144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0307-range-sum-query-mutable) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
