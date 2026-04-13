@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
@@ -158,12 +160,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 ## Simulation
 |  |
