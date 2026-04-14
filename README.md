@@ -181,12 +181,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Binary Tree
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/1319-number-of-operations-to-make-network-connected) |
+## Graph Theory
+|  |
+| ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/1319-number-of-operations-to-make-network-connected) |
 <!---LeetCode Topics End-->
