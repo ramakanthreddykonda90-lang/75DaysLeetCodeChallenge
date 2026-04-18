@@ -176,20 +176,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 ## Union-Find
 |  |
