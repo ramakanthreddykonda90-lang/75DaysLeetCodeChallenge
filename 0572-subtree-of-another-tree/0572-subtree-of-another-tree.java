@@ -1,0 +1,48 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
+class Solution {
+    public static boolean check(TreeNode root1,TreeNode root2)
+    {
+        if(root1==null&&root2==null)
+        return true;
+        if(root1==null||root2==null)
+        return false;
+        return (root1.val==root2.val)&&check(root1.left,root2.left)&&check(root1.right,root2.right);
+    }
+    public static void getF(TreeNode root,int val,List<TreeNode>ls)
+    {
+        if(root==null)
+        {
+        return;
+        }
+        if(root.val==val)
+        {
+            ls.add(root);
+        }
+        getF(root.left,val,ls);
+        getF(root.right,val,ls);
+    }
+    public boolean isSubtree(TreeNode root, TreeNode subRoot) {
+        List<TreeNode>l=new ArrayList<>();
+        getF(root,subRoot.val,l);
+        for(TreeNode te:l)
+        {
+          if(check(te,subRoot))
+          return true;
+        }
+        return false;
+    }
+}
