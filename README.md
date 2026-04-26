@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Breadth-First Search
 |  |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Graph Theory
 |  |
@@ -219,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
+## Matrix
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
