@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0368-largest-divisible-subset](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0368-largest-divisible-subset) |
+| [0788-rotated-digits](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0788-rotated-digits) |
 ## String
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0368-largest-divisible-subset](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0368-largest-divisible-subset) |
+| [0788-rotated-digits](https://github.com/ramakanthreddykonda90-lang/75DaysLeetCodeChallenge/tree/master/0788-rotated-digits) |
 ## Binary Search
 |  |
 | ------- |
